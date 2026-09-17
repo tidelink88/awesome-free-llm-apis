@@ -303,6 +303,19 @@ Base URL: `https://api.siliconflow.cn/v1`
 | --------------- | ------- | ---------- | -------- | --------------------- |
 | `Qwen/Qwen3-8B` | 128K    | —          | Text     | 1,000 RPM, 50,000 TPM |
 
+### [TideLink](https://tidelink.xyz) 🌐
+
+> Usage-based OpenAI-compatible LLM API gateway. Permanent free tier (GLM-4-Flash family), no credit card — pay-as-you-go from $0 for everything else.
+
+| Detail | Info |
+|---|---|
+| **Free Models** | GLM-4.7-Flash, GLM-4.6V-Flash, GLM-4-Flash, GLM-4V-Flash |
+| **Rate Limits** | 10 RPM · 100K TPD (tokens/day) |
+| **OpenAI Compat** | ✅ Yes — `https://tidelink.xyz/v1` |
+| **SDKs** | Python (via `openai`), JS/TS (via `openai`), REST |
+| **Speed Tier** | 🟡 Medium |
+
+---
 ## Glossary
 
 | Abbreviation | Meaning             |
