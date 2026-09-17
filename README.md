@@ -303,7 +303,7 @@ Base URL: `https://api.siliconflow.cn/v1`
 | --------------- | ------- | ---------- | -------- | --------------------- |
 | `Qwen/Qwen3-8B` | 128K    | —          | Text     | 1,000 RPM, 50,000 TPM |
 
-### [TideLink](https://tidelink.xyz) 🌐
+### [TideLink](https://tidelink.xyz?cid=gh) 🌐
 
 > Usage-based OpenAI-compatible LLM API gateway. Permanent free tier (GLM-4-Flash family), no credit card — pay-as-you-go from $0 for everything else.
 
